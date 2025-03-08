@@ -1,6 +1,8 @@
 # proyek-lingkungan-
 chatbot khusus untuk lingkungan, kamu bisa menanyakan bot itu apa pun tentang lingkungan!!
 
+**Untuk sekarang belum bisa apload gambar!! :(**
+
 gunakan chatbotnya di Discord!!
 
 ide proyek kodland :
