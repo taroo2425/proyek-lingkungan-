@@ -1,16 +1,24 @@
 # proyek-lingkungan-
 chatbot khusus untuk lingkungan, kamu bisa menanyakan bot itu apa pun tentang lingkungan!!
+by = Kiasatina. T
 
 **Untuk sekarang belum bisa apload gambar!! :(**
 
 gunakan chatbotnya di Discord!!
+tanyakan apapun tentang **lingkungan atau perubahan iklim!**
 
-ide proyek kodland :
+Deskripsi Proyek:
 
-bot discord yang aku ingin buat adalah bot pada umumnya bisa memjawab pertanyaan user, aku juga ingin membuat fitur dimana bot AI ku bisa mendeteksi gambar serta memberikan penyelesaian masalah tentu saja hanya masalah tentang lingkungan sekitar user, jika gambar yang diberikan user itu lingkungan yang penuh sampah bot ini akan meminta/memberikan pendapat dan solusi untuk user agar gambar lingkungan yang diberikan user menjadi lebih sehat dan bersih, begitu juga sebaliknya , bot AI nya dapat memberikan solusi, atau apapun tentang lingkungan bot nya bisa menjawab semua pertanyaan user. 
+Tujuan dari proyek ini:
+-agar pengguna mendapat ilmu tentang lingkungan
+-agar pengguna tau apa saja penyebab polusi atau lingkungan menjadi tidak bersih dan cara mengatasinya
 
+potensi penggunaan:
+-untuk memperbaiki lingkungan(?)
 
-
+Fungsi dan fitur:
+-chatbot untuk menjawab beberapa pertanyaan tentang lingkungan
+-untuk pertanyaan gunakan huruf kecil dan diakhiri dengan tanda tanya
 
 ## Inilah jenis proyek saya:
 > 
